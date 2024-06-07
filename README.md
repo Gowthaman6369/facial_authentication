@@ -11,7 +11,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/facial_authentication.git
+    git clone https://github.com/Gowthaman6369/facial_authentication.git
     cd facial_authentication
     ```
 
@@ -28,8 +28,7 @@
     pip install -r requirements.txt
     ```
 
-    Ensure that Python is installed. The required Python version is specified in the `runtime.txt` file.
-
+   
 ## Usage
 
 1. **Run the application:**
@@ -47,5 +46,5 @@
 3. **Use the application:**
 
     - Enter your username and password and click **Login**.
-    - Allow access to your webcam if prompted.# Web-Based Facial Authentication System
+    - Allow access to your webcam if prompted.
 
